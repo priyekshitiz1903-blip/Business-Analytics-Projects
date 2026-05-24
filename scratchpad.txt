@@ -1,0 +1,26 @@
+DATE: 24-05-2026
+
+TASK:
+Generated first structured Excel dataset and practiced navigation shortcuts.
+
+WHAT BROKE:
+WRONG AREA SELECTION WHILE MAKING TABLE.
+FOR HEADERS COPY THEM WHEN THEY ARE SEPERATED BY COMMA USE ALT +A+E TO SEPERATE THEM
+USE ALT+H+O+I FOR AUTO WIDTH
+
+WHAT FIXED IT:
+Used Paste Special → Values.
+
+WHAT I LEARNED:
+Ctrl + Arrow is extremely useful for large datasets.
+Learned how to create structured Excel tables.
+HOW TO SORT AND FILTER THE DATA.
+Learned how to separate delimited headers into columns.
+Learned how to format column widths for cleaner data presentation.
+
+BUSINESS OBSERVATION:
+Filters help identify high-performing regions faster.
+Structured tables improve reporting readability.
+Sorting helps identify trends and performance differences within datasets.
+
+
