@@ -1,5 +1,5 @@
 # Business-Analytics-Projects
-PGDM + PGERP | Business &amp; Operational Analytics Portfolio
+PGDM + PGERP | Business &; Operational Analytics Portfolio
 # Business-Analytics-Projects
 
 PGDM + PGERP | Business & Operational Analytics Portfolio
